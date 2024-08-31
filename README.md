@@ -45,3 +45,9 @@ Para começar a usar os projetos deste repositório, você precisará do seguint
 
    ```bash
    git clone https://github.com/lucasxavier9/systemverilog.git
+
+## Contribuição
+Contribuições são bem-vindas! Se você tiver sugestões de melhorias, novos projetos ou correções, sinta-se à vontade para abrir um pull request ou relatar um problema.
+
+## Licença
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
